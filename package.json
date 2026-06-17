@@ -1,0 +1,21 @@
+{
+  "name": "daily-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "day3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urlun0404/hexschool-node-js-daily-task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/urlun0404/hexschool-node-js-daily-task/issues"
+  },
+  "homepage": "https://github.com/urlun0404/hexschool-node-js-daily-task#readme",
+  "dependencies": {}
+}
