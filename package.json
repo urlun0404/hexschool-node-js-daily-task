@@ -17,5 +17,7 @@
     "url": "https://github.com/urlun0404/hexschool-node-js-daily-task/issues"
   },
   "homepage": "https://github.com/urlun0404/hexschool-node-js-daily-task#readme",
-  "dependencies": {}
+  "dependencies": {
+    "dotenv": "^17.4.2"
+  }
 }
